@@ -1,5 +1,0 @@
-<html>
-<body>
-How are you?
-</body>
-</html>
